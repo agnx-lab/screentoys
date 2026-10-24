@@ -1,0 +1,10 @@
+{
+  "appId": "screentoys",
+  "installState": "installed",
+  "launchMode": "packaged",
+  "source": {
+    "kind": "github",
+    "url": "https://github.com/shapiro500/screentoys"
+  },
+  "updatedAt": "2026-10-15T07:29:38.192Z"
+}

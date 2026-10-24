@@ -1,0 +1,24 @@
+{
+  "id": "screentoys",
+  "name": "Screen Toys",
+  "version": "0.1.0",
+  "engines": {
+    "agnx": ">=1.0.0"
+  },
+  "main": "./dist/index.js",
+  "icon": "./.agnx/assets/icon.png",
+  "contributes": {
+    "commands": [
+      {
+        "id": "screentoys.open",
+        "title": "Screen Toys"
+      }
+    ],
+    "panels": [
+      {
+        "id": "screentoys.main",
+        "title": "Screen Toys"
+      }
+    ]
+  }
+}

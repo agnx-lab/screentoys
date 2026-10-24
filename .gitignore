@@ -1,0 +1,4 @@
+# Agnx 子应用胶水产物必须入库
+!.agnx/dist/
+!.agnx/dist/**
+node_modules/
